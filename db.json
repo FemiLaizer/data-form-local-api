@@ -1,0 +1,24 @@
+{
+  "people": [
+    {
+      "username": "Khode",
+      "email": "",
+      "password": "",
+      "friends": [
+        "Ronke",
+        "Femi",
+        "Akorede"
+      ]
+    },
+    {
+      "username": "Rhode",
+      "email": "",
+      "password": "",
+      "friends": [
+        "Dorcas",
+        "Oluwafemi",
+        "Akorede"
+      ]
+    }
+  ]
+}
